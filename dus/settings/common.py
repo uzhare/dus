@@ -58,7 +58,7 @@ INSTALLED_APPS += (
     # Third Party
     'south',
     'social_auth',
-    'django-rq'
+    'django_rq',
 
     # Internal
     'apps.links',
